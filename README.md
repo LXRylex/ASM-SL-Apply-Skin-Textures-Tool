@@ -22,4 +22,4 @@ feel free to ask any questions oh and also as why its 156MB well, i tried to pac
 ## Installation:
 
 Once you extract the **.zip** you'll have a folder just go in it and run the **exe** there, have fun!
-you can get the tool from releases tab
+you can get the tool from releases tab or [click here ](https://github.com/LXRylex/ASM-SL-Apply-Skin-Textures-Tool/releases/download/v1.0.0/ASM-SL.Apply.Textures.Tool.zip) to get the latest
